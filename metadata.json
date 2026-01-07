@@ -1,0 +1,7 @@
+{
+  "name": "EduTest AI - English 6-9",
+  "description": "Hệ thống AI tạo đề và quản lý kiểm tra Tiếng Anh THCS (6-9) theo chuẩn Công văn 5512.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
